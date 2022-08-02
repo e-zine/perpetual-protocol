@@ -19,7 +19,7 @@ Welcome to contribute to this project.  Please join our [Discord](https://discor
 
 ## Local development and testing
 ### Requirements
-You should have Node 12 installed. Use [nvm](https://github.com/nvm-sh/nvm) to install it.
+You should have Node 1213 installed. Use [nvm](https://github.com/nvm-sh/nvm) to install it.
 
 ### Get started
 Clone this repository, install NodeJS dependencies, and build the source code:
